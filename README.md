@@ -10,7 +10,7 @@ Welcome to CasonPlayz Web Tester Script/App! This script provides various testin
    git clone https://github.com/CasonPlayzYT/casons-web-tester.git
 2.Open the cloned directory.
 
-3. Run the WebTester.vbs file.
+3. Run the casons-web-tester-tool.vbs file.
 
 4.Follow the on-screen instructions to choose an option:
 
